@@ -1,4 +1,4 @@
-# IBM-Data-Analyst-Phython-Project-for-Data-Science-Final-Assignment
+# IBM Data Analyst-Phython Project for Data Science-Final Assignment
 
 # 📊 Extracting and Visualizing Stock Data
 
